@@ -4,8 +4,8 @@
 body {
   background-image: linear-gradient(
     270deg,
-    #9a0045,
-    rgb(220, 145, 32),
+    #6b98a6,
+    rgba(20, 205, 131, 0.575),
     transparent 150%
   );
 }
@@ -23,7 +23,7 @@ body {
   border: 3px solid black;
   align-items: center;
   box-shadow: 0px 0px 20px 20px #081c15, 0px 0px 20px 20px transparent;
-  background-color: #d8d5d5;
+  background-color: #b7cdb4;
 }
 .card-body > h1 {
   margin-bottom: 15px;
